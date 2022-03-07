@@ -1,4 +1,4 @@
 # ignore
-/bin/
-/out/
-/target/
+bin/
+out/
+target/
